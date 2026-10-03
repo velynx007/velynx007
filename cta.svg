@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="Have something to build? Start a project on Telegram.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1c1f4a"/><stop offset=".6" stop-color="#2b2f86"/><stop offset="1" stop-color="#3d6bff"/></linearGradient>
+<clipPath id="c"><rect width="1200" height="280" rx="30"/></clipPath><filter id="bl" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter></defs>
+<g clip-path="url(#c)"><rect width="1200" height="280" fill="url(#bg)"/>
+<g filter="url(#bl)"><circle cx="1050" cy="20" r="170" fill="#ff4f9a" opacity=".6"><animateTransform attributeName="transform" type="translate" values="0 0;-80 40;0 0" dur="12s" repeatCount="indefinite"/></circle><circle cx="700" cy="300" r="140" fill="#22d68a" opacity=".35"><animateTransform attributeName="transform" type="translate" values="0 0;90 -20;0 0" dur="15s" repeatCount="indefinite"/></circle></g></g>
+<text x="70" y="108" font-size="52" font-weight="800" fill="#fff" font-family="'Segoe UI',Helvetica,Arial,sans-serif">Have something to build?</text>
+<text x="72" y="154" font-size="25" fill="#fff" fill-opacity=".82" font-family="'Segoe UI',Helvetica,Arial,sans-serif">Send me your idea on Telegram. I reply with the next steps.</text>
+<rect x="72" y="184" width="290" height="64" rx="32" fill="#fff"/><text x="217" y="226" text-anchor="middle" font-size="25" font-weight="800" fill="#1c1f4a" font-family="'Segoe UI',Helvetica,Arial,sans-serif">Start a project  →</text>
+<rect x="1.5" y="1.5" width="1197" height="277" rx="29" fill="none" stroke="#fff" stroke-opacity=".25" stroke-width="2"/></svg>

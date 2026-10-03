@@ -14,7 +14,7 @@
 </g>
 <g filter="url(#s)" font-family="'Segoe UI',Helvetica,Arial,sans-serif" fill="#fff">
 <text x="70" y="148" font-size="86" font-weight="800" letter-spacing="-2">Prashu aka Velyn</text>
-<text x="72" y="206" font-size="32" font-weight="600" opacity=".95">Developer  •  Ethical hacker  •  Bot engineer</text>
+<text x="72" y="206" font-size="36" font-weight="700" opacity="0">▸ Developer<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.30;.33;.97;1" dur="9s" repeatCount="indefinite"/></text><text x="72" y="206" font-size="36" font-weight="700" opacity="0">▸ Ethical hacker<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.30;.34;.63;.66;1" dur="9s" repeatCount="indefinite"/></text><text x="72" y="206" font-size="36" font-weight="700" opacity="0">▸ Bot engineer<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.63;.67;.96;1" dur="9s" repeatCount="indefinite"/></text>
 </g>
 <rect x="70" y="238" width="414" height="44" rx="22" fill="#fff" opacity=".2"/>
 <text x="96" y="268" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="600" fill="#fff">Termux  •  Kali Linux  •  Telegram bots</text>
